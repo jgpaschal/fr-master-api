@@ -1,0 +1,18 @@
+{
+    "streams": [
+    {
+      "level": "info",
+      "type": "rotating-file",
+      "path": "./log/frSalesApiMsg.log",
+      "period": "1d",
+      "count": 3
+    },
+      {
+      "level": "error",
+      "type": "rotating-file",
+      "path": "./log/frSalesApiError.log",
+      "period": "1d",
+      "count": 3
+      }
+    ]
+}
