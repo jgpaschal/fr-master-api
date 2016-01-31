@@ -1,1 +1,0 @@
-{"version":3,"names":[],"mappings":"","sources":["develop/app.json"],"sourcesContent":["{\n  \"host\": \"localhost\",\n  \"port\": 3003\n}"],"file":"develop/app.json","sourceRoot":"/home/john/Documents/repos/fr-sales-pf/fr-master-api/config"}
